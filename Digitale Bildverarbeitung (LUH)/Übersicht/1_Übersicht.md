@@ -34,12 +34,12 @@ Anwendung eines Operators Ω, der ein Eingabebild f in ein Ergebnisbild g transf
 
 *Der Begriff* **digitale Bildverarbeitung** *beschreibt die ersten Schritte einer Bildauswertung, bis hin zur Bereitstellung von Merkmalen für die Bildinterpretation.*
 
-![截屏2023-05-10 15.52.43.png](1_U%CC%88bersicht%207af93b87a5c5454c94389377d31619a9/%25E6%2588%25AA%25E5%25B1%258F2023-05-10_15.52.43.png)
+![截屏2023-08-09 22.30.57.png](1_Übersicht/截屏2023-08-09 22.30.57.png)
 
 ## 1.3 Das Bildverarbeitungssystem
 
-![Untitled](1_U%CC%88bersicht%207af93b87a5c5454c94389377d31619a9/Untitled.png)
+![Untitled](1_Übersicht/Untitled.png)
 
 ## 1.4 Inhalt der Lehrveranstaltung
 
-![Untitled](1_U%CC%88bersicht%207af93b87a5c5454c94389377d31619a9/Untitled%201.png)
+![Untitled](1_Übersicht/Untitled%201.png)
