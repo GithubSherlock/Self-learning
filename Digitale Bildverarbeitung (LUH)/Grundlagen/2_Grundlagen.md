@@ -54,7 +54,7 @@ Zusammenfassung:
 
 ### Quantisierung
 
-![Untitled](2_Grundlagen/Untitled%201.png)
+![Untitled](2_Grundlagen/Untitled 1.png)
 
 <aside>
 💡 How many gray levels are required?
