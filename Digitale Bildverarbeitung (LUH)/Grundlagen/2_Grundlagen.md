@@ -50,11 +50,11 @@ Zusammenfassung:
 
 ### Digitales Bild: Örtliche Auflösung / Diskretisierung
 
-![Untitled](2_Grundlagen%2037ad848aeac745198f200c044738fd8b/Untitled.png)
+![Untitled](2_Grundlagen/Untitled.png)
 
 ### Quantisierung
 
-![Untitled](2_Grundlagen%2037ad848aeac745198f200c044738fd8b/Untitled%201.png)
+![Untitled](2_Grundlagen/Untitled%201.png)
 
 <aside>
 💡 How many gray levels are required?
