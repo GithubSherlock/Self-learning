@@ -28,7 +28,7 @@ Motivation:
 - Modifikation von Bildern für nachfolgende Bildinterpretation
     - z.B. Kantenfilter, Binärisierung, ...
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled.png)
+![Untitled](3_Bildbearebitung/Untitled.png)
 
 # 3.2 Punktoperationen - Intensitätstransformationen
 
@@ -40,7 +40,7 @@ Nichtlineare Punktoperation: z.B. Kennlinie
 
 - Gamma-Korrektur
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled%201.png)
+![Untitled](3_Bildbearebitung/Untitled%201.png)
 
 ### Grauwert-Histogramme und Histogrammausgleich
 
@@ -50,7 +50,7 @@ $$
 n(i)= \operatorname{Anzahl}[g(x,y)=i]
 $$
 
-![截屏2023-05-10 21.11.38.png](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/%25E6%2588%25AA%25E5%25B1%258F2023-05-10_21.11.38.png)
+![截屏2023-05-10 21.11.38.png](3_Bildbearebitung/%25E6%2588%25AA%25E5%25B1%258F2023-05-10_21.11.38.png)
 
 **Histogrammspreizung:**
 
@@ -58,7 +58,7 @@ $$
 h(x,y)=255 \cdot \frac{g(x,y)-g_{min}}{g_{max}-g_{min}}
 $$
 
-![截屏2023-05-10 21.11.52.png](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/%25E6%2588%25AA%25E5%25B1%258F2023-05-10_21.11.52.png)
+![截屏2023-05-10 21.11.52.png](3_Bildbearebitung/%25E6%2588%25AA%25E5%25B1%258F2023-05-10_21.11.52.png)
 
 **Histogrammausgleich**
 
@@ -91,7 +91,7 @@ $$
 
 ### Punktoperationen an mehreren Eingangsbildern
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled%202.png)
+![Untitled](3_Bildbearebitung/Untitled%202.png)
 
 ### Zusammenfassung Punktoperationen
 
@@ -143,7 +143,7 @@ $$
 
 Aufgaben:
 
-- Replaces each pixel with an average of its neighborhood
+- Replaces each pixel with an average of its neighbourhood
 - Achieve smoothing effect (remove sharp features)
 
 **Sharpening filter (Schärfungseffekt)**
@@ -212,7 +212,7 @@ In summary, filtering is a general term that encompasses a wide range of image p
 
 **Weitere Eigenschaften linearer Filter**
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled%203.png)
+![Untitled](3_Bildbearebitung/Untitled%203.png)
 
 <aside>
 💡 Wie viele **Multiplikationen** und **Addition** werden bei einer Faltung mit der folgenden Filtermaske pro Pixel benötigt?
@@ -248,17 +248,17 @@ Additionen: 4
 
 **Practical matters**
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled%204.png)
+![Untitled](3_Bildbearebitung/Untitled%204.png)
 
 ### 3.3.2 Nichtlineare Filter
 
 **Median Filter**
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled%205.png)
+![Untitled](3_Bildbearebitung/Untitled%205.png)
 
 **Gradientenfilter**
 
-![Untitled](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/Untitled%206.png)
+![Untitled](3_Bildbearebitung/Untitled%206.png)
 
 <aside>
 💡 What is gradient filter?
@@ -298,7 +298,7 @@ $$
 h(x,y)=F[g(x,y)]
 $$
 
-![截屏2023-05-11 20.40.39.png](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/%25E6%2588%25AA%25E5%25B1%258F2023-05-11_20.40.39.png)
+![截屏2023-05-11 20.40.39.png](3_Bildbearebitung/%25E6%2588%25AA%25E5%25B1%258F2023-05-11_20.40.39.png)
 
 Modifikation Grau- oder Farbwerte des Pixels:
 
@@ -310,7 +310,7 @@ $$
 
 Modifikation der geometrischen Position des Pixels
 
-![截屏2023-05-11 20.40.23.png](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/%25E6%2588%25AA%25E5%25B1%258F2023-05-11_20.40.23.png)
+![截屏2023-05-11 20.40.23.png](3_Bildbearebitung/%25E6%2588%25AA%25E5%25B1%258F2023-05-11_20.40.23.png)
 
 Anwendungen:
 
@@ -326,7 +326,7 @@ $$
 \mathrm{x'=T[x]} \quad \mathrm{x=T^{-1}[x']}
 $$
 
-![截屏2023-05-11 21.21.24.png](3_Bildbearebitung%20ca332a961dcf4012ab83f2c9108f0281/%25E6%2588%25AA%25E5%25B1%258F2023-05-11_21.21.24.png)
+![截屏2023-05-11 21.21.24.png](3_Bildbearebitung/%25E6%2588%25AA%25E5%25B1%258F2023-05-11_21.21.24.png)
 
 ### Zusammenfassung Geometrische Transformation und Interpolation
 
