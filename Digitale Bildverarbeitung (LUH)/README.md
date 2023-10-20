@@ -14,6 +14,8 @@ Related themes are:
   5. Repräsentation von Farbe
   6. Einführung Bildanalyse
 
+Note: Viewing the Markdown file on GitHub will show it incomplete, but it can be viewed in its entirety by downloading it and viewing it with a Markdown editor (e.g. Typora, Notion).
+
 ### About Lab
 The associated course also has 1 credit worth of lab on computer vision, if you are interested click on the link below:
 
